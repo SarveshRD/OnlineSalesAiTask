@@ -3,20 +3,12 @@ package com.example.onlinesalestask
 import android.content.ContentValues
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
-import android.text.Editable
-import android.widget.EditText
-import androidx.core.widget.TextViewCompat
 import org.junit.Test
-
 import org.junit.Assert.*
-import org.junit.Before
-import org.junit.Rule
 import org.mockito.ArgumentMatchers.any
 import org.mockito.ArgumentMatchers.anyString
 import org.mockito.Mock
-import org.mockito.Mockito
 import org.mockito.Mockito.*
-import org.mockito.MockitoAnnotations
 
 /**
  * Example local unit test, which will execute on the development machine (host).
